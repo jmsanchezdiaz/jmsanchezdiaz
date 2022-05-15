@@ -9,7 +9,6 @@ Hola 👋, soy Juanma! Soy un desarrollador frontend autodidacta de Wilde, Argen
 *   🌍  I'm based in Argentina
 *   🖥️  See my portfolio at [This Link](http://jmsanchezdiaz.github.io/portfolio/)
 *   ✉️  You can contact me at [jmsanchezdiaz02@gmail.com](mailto:jmsanchezdiaz02@gmail.com)
-*   🚀  I'm currently working on [Mixito](http://mixito-vercel.app)
 *   🧠  I'm learning Java and Next JS
 *   🤝  I'm open to collaborating on all kind of projects
 *   ⚡  I love cinema and playing videogames.
