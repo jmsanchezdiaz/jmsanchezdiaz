@@ -7,7 +7,7 @@ Web Developer
 Hola 👋, soy Juanma! Soy un desarrollador frontend autodidacta de Wilde, Argentina, amo aprender nuevas tecnologías y el trabajo en equipo. Ademas de mi camino como Frontend, me encuentro estudiando la Licenciatura en Informatica de la Universidad Nacional De Quilmes.
 
 *   🌍  I'm based in Argentina
-*   🖥️  See my portfolio at [This Link](http://jmsanchezdiaz.github.io/portfolio/)
+*   🖥️  See my [Portfolio](http://jmsanchezdiaz.github.io/portfolio/)
 *   ✉️  You can contact me at [jmsanchezdiaz02@gmail.com](mailto:jmsanchezdiaz02@gmail.com)
 *   🧠  I'm learning Java and Next JS
 *   🤝  I'm open to collaborating on all kind of projects
