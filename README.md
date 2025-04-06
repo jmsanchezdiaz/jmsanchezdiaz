@@ -1,7 +1,7 @@
 Hi 👋 I'm Juan Manuel Sánchez Díaz
 ==================================
 
-Frontend Developer (React & TypeScript enthusiast)  
+Fullstack Developer (React & TypeScript enthusiast)  
 -----------------------------
 
 Hey! I'm Juanma, a frontend-oriented fullstack developer from Buenos Aires, Argentina 🇦🇷. I’m passionate about building clean, accessible and scalable interfaces with React and modern web technologies. I enjoy learning, solving problems and working in collaborative environments.
