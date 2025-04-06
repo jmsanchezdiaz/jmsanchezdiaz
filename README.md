@@ -1,14 +1,26 @@
-Hi 👋 My name is Juan Manuel
-============================
+Hi 👋 I'm Juan Manuel Sánchez Díaz
+==================================
 
-Frontend Developer
--------------
-Hey 👋, I'm Juanma! I am a self-taught frontend developer from Wilde, Argentina. I love learning new technologies and team work. Besides my self-taught learning path I study Bachelor in Computer Science at Universidad Nacional de Quilmes.
+Frontend Developer (React & TypeScript enthusiast)  
+-----------------------------
 
-*   🌍  I'm based in Argentina
-*   🖥️  See my [Portfolio](http://jmsanchezdiaz.github.io/portfolio/)
-*   ✉️  You can contact me at [jmsanchezdiaz02@gmail.com](mailto:jmsanchezdiaz02@gmail.com) or [LinkedIn](https://www.linkedin.com/in/juan-manuel-sanchez-diaz/)
-*   🧠  I'm in constant learning
-*   🤝  I'm open to collaborating on all kind of projects
-*   ⚡  I love cinema, books and videogames
+Hey! I'm Juanma, a frontend-oriented fullstack developer from Wilde, Argentina 🇦🇷. I’m passionate about building clean, accessible and scalable interfaces with React and modern web technologies. I enjoy learning, solving problems and working in collaborative environments.
 
+Alongside my self-taught journey, I’m currently studying a Bachelor’s Degree in Computer Science at Universidad Nacional de Quilmes.
+
+---
+
+🔎 **About me:**
+
+- 🌍 Based in Argentina
+- 🎓 Studying Computer Science @ UNQ
+- 👨‍💻 Focused on **React**, **TypeScript**, **Rails** & **Cypress**
+- 📫 Reach me at [jmsanchezdiaz02@gmail.com](mailto:jmsanchezdiaz02@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/juan-manuel-sanchez-diaz/)
+- 🌐 Check out my [Portfolio](http://jmsanchezdiaz.github.io/portfolio/)
+- 💬 Open to collaboration on cool and meaningful projects
+- 📚 Always learning and experimenting with new tools
+- 🎮 I love cinema, books and video games
+
+---
+
+Thanks for passing by! Feel free to explore my repos 🤓🚀
