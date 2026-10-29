@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="400px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+.title {fill: #c9d1d9;}
+.ascii {fill: #c9d1d9;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="400px" fill="#161b22" rx="15"/>
+
+<text x="15" y="18" class="ascii" xml:space="preserve" font-size="14px">
+<tspan x="15" y="18">                      #</tspan>
+<tspan x="15" y="33">              ####++:+++++</tspan>
+<tspan x="15" y="48">           ++::.............:+</tspan>
+<tspan x="15" y="63">          +:..   ......  ..  .+#</tspan>
+<tspan x="15" y="78">         #:..  ..:++++++:::. ..+</tspan>
+<tspan x="15" y="93">         ::....:+########++:...:</tspan>
+<tspan x="15" y="108">        +:...::+#@@@@@####+:....:</tspan>
+<tspan x="15" y="123">       +:...::+#@@@@@@@####+:.  .+</tspan>
+<tspan x="15" y="138">       :.....:+++++#@##++:++:.   :</tspan>
+<tspan x="15" y="153">       +.  .:++::.:+##::::++:.   .</tspan>
+<tspan x="15" y="168">        . ..++++::+##+:+++##+:.  .</tspan>
+<tspan x="15" y="183">        . .+#+:..:#@#::::.::++.  :</tspan>
+<tspan x="15" y="198">        : :@@@+:+#@@+:::::::++. .</tspan>
+<tspan x="15" y="213">         .+@@@##@@@#+::++####+..:</tspan>
+<tspan x="15" y="228">          #@@@@##@@#+:.:+###++:+</tspan>
+<tspan x="15" y="243">          #@@@@##+++:..:++++::+</tspan>
+<tspan x="15" y="258">           #@@@###++:.:++++:::</tspan>
+<tspan x="15" y="273">           ##@@###++:::+:::.:</tspan>
+<tspan x="15" y="288">            +###++:....:::::#</tspan>
+<tspan x="15" y="303">          :::####+::.::::..+</tspan>
+<tspan x="15" y="318">    ++:::...+@@@@##+++::..:++:+</tspan>
+<tspan x="15" y="333"> +:::...::::+@@@#++:++:.::+++....:+</tspan>
+<tspan x="15" y="348">:............:##++:..::::++:.     ..::</tspan>
+<tspan x="15" y="363">       . ..  ..:::::::::...            .</tspan>
+<tspan x="15" y="378"></tspan>
+</text>
+
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30" class="title">juanma</tspan><tspan class="cc"> ─────────────────────────────</tspan>
+
+<tspan x="390" y="50" class="key">Role</tspan>:<tspan class="value" x="560"> Analytics Engineer (SSR)</tspan>
+<tspan x="390" y="70" class="key">Company</tspan>:<tspan class="value" x="560"> 10Pines</tspan>
+<tspan x="390" y="90" class="key">Uptime</tspan>:<tspan class="value" x="560" id="age_data"> —</tspan>
+<tspan x="390" y="110" class="key">Location</tspan>:<tspan class="value" x="560"> Argentina</tspan>
+<tspan x="390" y="130" class="key">Uni</tspan>:<tspan class="value" x="560"> Lic. en Informática</tspan>
+<tspan x="390" y="150" class="key">Languages</tspan>:<tspan class="value" x="560" id="lang_data"> —</tspan>
+
+<tspan x="390" y="190" class="title">GitHub Stats</tspan><tspan class="cc"> ─────────────────────────</tspan>
+
+<tspan x="390" y="210" class="key">Repos</tspan>:<tspan class="value" x="560" id="repo_data"> 109</tspan> {Contributed: <tspan class="value" id="contrib_data">0</tspan>}
+<tspan x="390" y="230" class="key">Commits</tspan>:<tspan class="value" x="560" id="commit_data"> 0</tspan>
+<tspan x="390" y="250" class="key">Stars</tspan>:<tspan class="value" x="560" id="star_data"> 0</tspan>
+<tspan x="390" y="270" class="key">Followers</tspan>:<tspan class="value" x="560" id="follower_data"> 0</tspan>
+<tspan x="390" y="290" class="key">Lines of Code</tspan>:<tspan class="value" x="560" id="loc_data"> 0</tspan> (<tspan class="value" id="loc_add">0</tspan>++, <tspan class="value" id="loc_del">0</tspan>--)
+
+<tspan x="390" y="330" class="title">Contact</tspan><tspan class="cc"> ──────────────────────────────</tspan>
+
+<tspan x="390" y="350" class="key">GitHub</tspan>:<tspan class="value" x="560"> jmsanchezdiaz</tspan>
+<tspan x="390" y="370" class="key">Web</tspan>:<tspan class="value" x="560"> jmsanchezdiaz.dev</tspan>
+</text>
+</svg>
