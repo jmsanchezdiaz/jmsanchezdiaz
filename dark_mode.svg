@@ -42,7 +42,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30" class="title">juanma</tspan><tspan class="cc"> ─────────────────────────────</tspan>
 
-<tspan x="390" y="50" class="key">Role</tspan>:<tspan class="value" x="560"> Analytics Engineer (SSR)</tspan>
+<tspan x="390" y="50" class="key">Role</tspan>:<tspan class="value" x="560"> Fullstack Developer</tspan>
 <tspan x="390" y="70" class="key">Company</tspan>:<tspan class="value" x="560"> 10Pines</tspan>
 <tspan x="390" y="90" class="key">Uptime</tspan>:<tspan class="value" x="560" id="age_data"> 24 years, 5 months, 18 days</tspan>
 <tspan x="390" y="110" class="key">Location</tspan>:<tspan class="value" x="560"> Argentina</tspan>
