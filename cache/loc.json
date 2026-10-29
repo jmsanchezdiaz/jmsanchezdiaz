@@ -1,0 +1,807 @@
+{
+ "10Pines/aconcagua-js": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/agnostic-sql": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/aws_ses_newsletters": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/aws_ses_newsletters_demo": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/bootstrap-material-datetimepicker": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/calendito-privacy-policy": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/chalten-js": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/codepine-playground": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/dag-stack-java": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/dag-stack-typescript": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/docker-loomio-gcs": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/email-signature": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/error_handling_protocol": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/ex_matchers": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/fast-mcp": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/ghost-dump-parser": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/go-back": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/haskint": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/langchain": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/langchain-outline": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/loomio-deploy": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/object-to-formdata": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/opensmalltalk-vm": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/patova-proxy": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/practica_conflictos": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/protocolo-actuacion": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/ruby_on_asteroids": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/smart-open-space": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/temas-10-frontend": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/the_closure_challenge": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/tldr_event_sourcing": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/tracker": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/trust-in-objects-js": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/value_protocol": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/vuejs-countdown": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/vuejs-paginate": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "10Pines/will_filter": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "BioinformaticaUNQ/TP_final_1_1S_2026": {
+  "add": 1054,
+  "commits": 7,
+  "del": 111
+ },
+ "BioinformaticaUNQ/juego_de_la_vida_jmsanchezdiaz": {
+  "add": 1190,
+  "commits": 8,
+  "del": 413
+ },
+ "ZekielAsh/tp-pconc-laime-quaglia-sanchez-diaz": {
+  "add": 862,
+  "commits": 18,
+  "del": 224
+ },
+ "dkippes/Arduino-8-bits-song-player": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "dkippes/BE-app-financiera": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "dkippes/FE-app-financiera": {
+  "add": 7095,
+  "commits": 8,
+  "del": 456
+ },
+ "dkippes/MeSumo": {
+  "add": 3,
+  "commits": 2,
+  "del": 22
+ },
+ "dkippes/MeSumo-BE": {
+  "add": 8406,
+  "commits": 23,
+  "del": 1008
+ },
+ "dkippes/MeSumo-FE": {
+  "add": 15673,
+  "commits": 22,
+  "del": 3367
+ },
+ "dkippes/Programacion-Funcional": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "dkippes/TP-PDES": {
+  "add": 6445,
+  "commits": 19,
+  "del": 90
+ },
+ "dkippes/desa-unq-grupo-c": {
+  "add": 12938,
+  "commits": 36,
+  "del": 16478
+ },
+ "dkippes/unquiler-eis": {
+  "add": 20516,
+  "commits": 26,
+  "del": 1828
+ },
+ "ezegonzalez912/bio22222": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "ezegonzalez912/goParty": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "francogarcino/funcional-apuntes": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "jmsanchezdiaz/BScurso": {
+  "add": 1933,
+  "commits": 5,
+  "del": 1
+ },
+ "jmsanchezdiaz/BiBST": {
+  "add": 490,
+  "commits": 8,
+  "del": 97
+ },
+ "jmsanchezdiaz/CovidStatsApp": {
+  "add": 617,
+  "commits": 17,
+  "del": 173
+ },
+ "jmsanchezdiaz/EstrD2023s1": {
+  "add": 4815,
+  "commits": 58,
+  "del": 674
+ },
+ "jmsanchezdiaz/IndieBrew-Static-Page": {
+  "add": 719,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/MIXITO": {
+  "add": 9094,
+  "commits": 7,
+  "del": 914
+ },
+ "jmsanchezdiaz/My-Own-Array-in-JS": {
+  "add": 54,
+  "commits": 2,
+  "del": 2
+ },
+ "jmsanchezdiaz/PrototipoPaginaNoticias": {
+  "add": 428,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/REST-API-SIMPLE-": {
+  "add": 1821,
+  "commits": 2,
+  "del": 2
+ },
+ "jmsanchezdiaz/RecepioApp": {
+  "add": 13800,
+  "commits": 2,
+  "del": 7
+ },
+ "jmsanchezdiaz/Tailwind": {
+  "add": 721,
+  "commits": 2,
+  "del": 0
+ },
+ "jmsanchezdiaz/aerolab-challenge": {
+  "add": 19669,
+  "commits": 23,
+  "del": 379
+ },
+ "jmsanchezdiaz/ahorro-gamer-api": {
+  "add": 186,
+  "commits": 6,
+  "del": 90
+ },
+ "jmsanchezdiaz/ahorro-gamer-app": {
+  "add": 7353,
+  "commits": 16,
+  "del": 615
+ },
+ "jmsanchezdiaz/api-rest-javalin-todo": {
+  "add": 685,
+  "commits": 2,
+  "del": 10
+ },
+ "jmsanchezdiaz/backendLearning": {
+  "add": 1243,
+  "commits": 2,
+  "del": 63
+ },
+ "jmsanchezdiaz/basic-kv-concept": {
+  "add": 279,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/bioinformatica-sanchez-diaz": {
+  "add": 879,
+  "commits": 7,
+  "del": 9
+ },
+ "jmsanchezdiaz/blog-personal": {
+  "add": 8153,
+  "commits": 35,
+  "del": 584
+ },
+ "jmsanchezdiaz/blog-personal-v2": {
+  "add": 7996,
+  "commits": 25,
+  "del": 703
+ },
+ "jmsanchezdiaz/boludeces": {
+  "add": 46,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/boss-ipv-2024-e3.14cos": {
+  "add": 6529,
+  "commits": 36,
+  "del": 1267
+ },
+ "jmsanchezdiaz/branches-test": {
+  "add": 9311,
+  "commits": 4,
+  "del": 79
+ },
+ "jmsanchezdiaz/catFact": {
+  "add": 9287,
+  "commits": 3,
+  "del": 20
+ },
+ "jmsanchezdiaz/challenges": {
+  "add": 99,
+  "commits": 3,
+  "del": 12640
+ },
+ "jmsanchezdiaz/chiste": {
+  "add": 3,
+  "commits": 2,
+  "del": 1
+ },
+ "jmsanchezdiaz/comments-reactjs": {
+  "add": 2613,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/community": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "jmsanchezdiaz/crunchloop-nest-js": {
+  "add": 744,
+  "commits": 1,
+  "del": 63
+ },
+ "jmsanchezdiaz/cryptocard": {
+  "add": 213,
+  "commits": 2,
+  "del": 0
+ },
+ "jmsanchezdiaz/cypress-project": {
+  "add": 2899,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/ejemplos1": {
+  "add": 1,
+  "commits": 1,
+  "del": 1
+ },
+ "jmsanchezdiaz/entregas-ipv-sanchez-diaz-juan-manuel": {
+  "add": 11070,
+  "commits": 21,
+  "del": 28
+ },
+ "jmsanchezdiaz/estampitency": {
+  "add": 9126,
+  "commits": 9,
+  "del": 4331
+ },
+ "jmsanchezdiaz/fantasticboxco-solution": {
+  "add": 13580,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/file-based-router": {
+  "add": 105,
+  "commits": 2,
+  "del": 0
+ },
+ "jmsanchezdiaz/frontendmentorchallenge": {
+  "add": 150,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/frontendmentorchallengeProfileCard": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "jmsanchezdiaz/gastito-app": {
+  "add": 15739,
+  "commits": 2,
+  "del": 32
+ },
+ "jmsanchezdiaz/gastos-api": {
+  "add": 1182,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/gastos-app": {
+  "add": 13513,
+  "commits": 2,
+  "del": 14
+ },
+ "jmsanchezdiaz/gipharg": {
+  "add": 21654,
+  "commits": 19,
+  "del": 4356
+ },
+ "jmsanchezdiaz/git-in-js": {
+  "add": 112,
+  "commits": 6,
+  "del": 22
+ },
+ "jmsanchezdiaz/graphql-api": {
+  "add": 727,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/heroes-app-alkemy": {
+  "add": 18141,
+  "commits": 16,
+  "del": 288
+ },
+ "jmsanchezdiaz/heroesApp": {
+  "add": 106,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/higher-or-lower": {
+  "add": 0,
+  "commits": 0,
+  "del": 0
+ },
+ "jmsanchezdiaz/jmsanchezdiaz": {
+  "add": 339,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/jmsanchezdiaz2": {
+  "add": 167,
+  "commits": 46,
+  "del": 53
+ },
+ "jmsanchezdiaz/jmsanchezdiazCRUDINDEXEDDB": {
+  "add": 123,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/jmsanchezdiazguessthenumber": {
+  "add": 613,
+  "commits": 7,
+  "del": 70
+ },
+ "jmsanchezdiaz/jmsanchezdiazlazyLoading": {
+  "add": 240,
+  "commits": 6,
+  "del": 33
+ },
+ "jmsanchezdiaz/jmsanchezdiazweatherin": {
+  "add": 110,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/landingpagemoderna": {
+  "add": 186,
+  "commits": 2,
+  "del": 2
+ },
+ "jmsanchezdiaz/lastry": {
+  "add": 107287,
+  "commits": 3,
+  "del": 1
+ },
+ "jmsanchezdiaz/linktree": {
+  "add": 100,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/maslow": {
+  "add": 5625,
+  "commits": 10,
+  "del": 624
+ },
+ "jmsanchezdiaz/meli-details-challenge": {
+  "add": 2531,
+  "commits": 19,
+  "del": 336
+ },
+ "jmsanchezdiaz/my-react-app": {
+  "add": 17356,
+  "commits": 4,
+  "del": 110
+ },
+ "jmsanchezdiaz/myLastUrl": {
+  "add": 56,
+  "commits": 3,
+  "del": 8
+ },
+ "jmsanchezdiaz/myPersonalTierList": {
+  "add": 237,
+  "commits": 5,
+  "del": 3
+ },
+ "jmsanchezdiaz/mydeployapp": {
+  "add": 16733,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/new-portfolio": {
+  "add": 4871,
+  "commits": 5,
+  "del": 56
+ },
+ "jmsanchezdiaz/nextjs-blog": {
+  "add": 1566,
+  "commits": 3,
+  "del": 208
+ },
+ "jmsanchezdiaz/nextjs-tuto-dashboard": {
+  "add": 9892,
+  "commits": 6,
+  "del": 63
+ },
+ "jmsanchezdiaz/ng-routing-app": {
+  "add": 14942,
+  "commits": 2,
+  "del": 528
+ },
+ "jmsanchezdiaz/nodeApp": {
+  "add": 2953,
+  "commits": 4,
+  "del": 5
+ },
+ "jmsanchezdiaz/note-app": {
+  "add": 18513,
+  "commits": 6,
+  "del": 424
+ },
+ "jmsanchezdiaz/notes-app-fe": {
+  "add": 3074,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/pconc-2024": {
+  "add": 1340,
+  "commits": 6,
+  "del": 1
+ },
+ "jmsanchezdiaz/pfunc-2025": {
+  "add": 13313,
+  "commits": 30,
+  "del": 771
+ },
+ "jmsanchezdiaz/poo2eclipse": {
+  "add": 186,
+  "commits": 2,
+  "del": 0
+ },
+ "jmsanchezdiaz/poo2intellij": {
+  "add": 229,
+  "commits": 7,
+  "del": 1
+ },
+ "jmsanchezdiaz/portfolio": {
+  "add": 42371,
+  "commits": 54,
+  "del": 2083
+ },
+ "jmsanchezdiaz/portfolio-2024": {
+  "add": 5379,
+  "commits": 6,
+  "del": 240
+ },
+ "jmsanchezdiaz/portfolio-2026": {
+  "add": 6070,
+  "commits": 7,
+  "del": 2378
+ },
+ "jmsanchezdiaz/prenotami-bot": {
+  "add": 107,
+  "commits": 3,
+  "del": 1
+ },
+ "jmsanchezdiaz/pruebatwcss": {
+  "add": 11,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/recepio": {
+  "add": 626,
+  "commits": 2,
+  "del": 2
+ },
+ "jmsanchezdiaz/recipio": {
+  "add": 1334,
+  "commits": 15,
+  "del": 192
+ },
+ "jmsanchezdiaz/regalame": {
+  "add": 15924,
+  "commits": 65,
+  "del": 1105
+ },
+ "jmsanchezdiaz/repo-secreto": {
+  "add": 3859,
+  "commits": 56,
+  "del": 674
+ },
+ "jmsanchezdiaz/rest-api-with-mongo-express-node-ts": {
+  "add": 3009,
+  "commits": 11,
+  "del": 163
+ },
+ "jmsanchezdiaz/rest-countries-app": {
+  "add": 18121,
+  "commits": 12,
+  "del": 448
+ },
+ "jmsanchezdiaz/rgit": {
+  "add": 131,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/rockcissorspaper": {
+  "add": 521,
+  "commits": 9,
+  "del": 154
+ },
+ "jmsanchezdiaz/softvision-challenge": {
+  "add": 17591,
+  "commits": 5,
+  "del": 162
+ },
+ "jmsanchezdiaz/springboot-simple-api": {
+  "add": 867,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/taurusgaming": {
+  "add": 276,
+  "commits": 1,
+  "del": 0
+ },
+ "jmsanchezdiaz/todo-list-react-native": {
+  "add": 8429,
+  "commits": 2,
+  "del": 8
+ },
+ "jmsanchezdiaz/tp-pconc-laime-quaglia-sanchez-diaz": {
+  "add": 862,
+  "commits": 18,
+  "del": 224
+ },
+ "jmsanchezdiaz/tp-vinchucas": {
+  "add": 4887,
+  "commits": 75,
+  "del": 1786
+ },
+ "jmsanchezdiaz/tpobj": {
+  "add": 4221,
+  "commits": 14,
+  "del": 491
+ },
+ "jmsanchezdiaz/ts-data-structures-and-algos": {
+  "add": 4370,
+  "commits": 5,
+  "del": 2
+ },
+ "jmsanchezdiaz/tw-clone": {
+  "add": 6001,
+  "commits": 4,
+  "del": 229
+ },
+ "jmsanchezdiaz/unq-poo2-tp2": {
+  "add": 0,
+  "commits": 11,
+  "del": 0
+ },
+ "jmsanchezdiaz/unq-ui-juan-manuel-sanchez-diaz-trabajo-final": {
+  "add": 3610,
+  "commits": 11,
+  "del": 62
+ },
+ "jmsanchezdiaz/unq-uis-practicas": {
+  "add": 593,
+  "commits": 3,
+  "del": 301
+ },
+ "jmsanchezdiaz/unqui-poo2-sanchezdiaz": {
+  "add": 5868,
+  "commits": 45,
+  "del": 350
+ },
+ "jmsanchezdiaz/urlshorty-be": {
+  "add": 600,
+  "commits": 2,
+  "del": 0
+ },
+ "jmsanchezdiaz/urlshorty-fe": {
+  "add": 4252,
+  "commits": 4,
+  "del": 32
+ },
+ "jmsanchezdiaz/vue-apps": {
+  "add": 812,
+  "commits": 2,
+  "del": 1
+ },
+ "jmsanchezdiaz/workspaces": {
+  "add": 372,
+  "commits": 3,
+  "del": 27
+ },
+ "unq-objetos3-alumnos/2026s1-booleanos-scala-jmsanchezdiaz": {
+  "add": 146,
+  "commits": 1,
+  "del": 29
+ },
+ "unq-objetos3-alumnos/2026s1-carrito-de-compras-ruby-jmsanchezdiaz": {
+  "add": 120,
+  "commits": 1,
+  "del": 21
+ },
+ "unq-objetos3-alumnos/2026s1-graficador-ruby-jmsanchezdiaz": {
+  "add": 71,
+  "commits": 2,
+  "del": 14
+ },
+ "unq-objetos3-alumnos/2026s1-method-lookup-ruby-jmsanchezdiaz": {
+  "add": 79,
+  "commits": 1,
+  "del": 1
+ },
+ "unq-objetos3-alumnos/2026s1-mixines-ruby-jmsanchezdiaz-1": {
+  "add": 79,
+  "commits": 2,
+  "del": 16
+ }
+}

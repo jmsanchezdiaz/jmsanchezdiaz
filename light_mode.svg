@@ -44,18 +44,18 @@ text, tspan {white-space: pre;}
 
 <tspan x="390" y="50" class="key">Role</tspan>:<tspan class="value" x="560"> Analytics Engineer (SSR)</tspan>
 <tspan x="390" y="70" class="key">Company</tspan>:<tspan class="value" x="560"> 10Pines</tspan>
-<tspan x="390" y="90" class="key">Uptime</tspan>:<tspan class="value" x="560" id="age_data"> —</tspan>
+<tspan x="390" y="90" class="key">Uptime</tspan>:<tspan class="value" x="560" id="age_data"> 24 years, 5 months, 18 days</tspan>
 <tspan x="390" y="110" class="key">Location</tspan>:<tspan class="value" x="560"> Argentina</tspan>
 <tspan x="390" y="130" class="key">Uni</tspan>:<tspan class="value" x="560"> Lic. en Informática</tspan>
-<tspan x="390" y="150" class="key">Languages</tspan>:<tspan class="value" x="560" id="lang_data"> —</tspan>
+<tspan x="390" y="150" class="key">Languages</tspan>:<tspan class="value" x="560" id="lang_data"> CSS, TypeScript, JavaScript, Java, Haskell</tspan>
 
 <tspan x="390" y="190" class="title">GitHub Stats</tspan><tspan class="cc"> ─────────────────────────</tspan>
 
-<tspan x="390" y="210" class="key">Repos</tspan>:<tspan class="value" x="560" id="repo_data"> 109</tspan> {Contributed: <tspan class="value" id="contrib_data">0</tspan>}
-<tspan x="390" y="230" class="key">Commits</tspan>:<tspan class="value" x="560" id="commit_data"> 0</tspan>
-<tspan x="390" y="250" class="key">Stars</tspan>:<tspan class="value" x="560" id="star_data"> 0</tspan>
-<tspan x="390" y="270" class="key">Followers</tspan>:<tspan class="value" x="560" id="follower_data"> 0</tspan>
-<tspan x="390" y="290" class="key">Lines of Code</tspan>:<tspan class="value" x="560" id="loc_data"> 0</tspan> (<tspan class="value" id="loc_add">0</tspan>++, <tspan class="value" id="loc_del">0</tspan>--)
+<tspan x="390" y="210" class="key">Repos</tspan>:<tspan class="value" x="560" id="repo_data"> 109</tspan> {Contributed: <tspan class="value" id="contrib_data">7</tspan>}
+<tspan x="390" y="230" class="key">Commits</tspan>:<tspan class="value" x="560" id="commit_data"> 2,332</tspan>
+<tspan x="390" y="250" class="key">Stars</tspan>:<tspan class="value" x="560" id="star_data"> 8</tspan>
+<tspan x="390" y="270" class="key">Followers</tspan>:<tspan class="value" x="560" id="follower_data"> 39</tspan>
+<tspan x="390" y="290" class="key">Lines of Code</tspan>:<tspan class="value" x="560" id="loc_data"> 610,263</tspan> (<tspan class="value" id="loc_add">676,218</tspan>++, <tspan class="value" id="loc_del">65,955</tspan>--)
 
 <tspan x="390" y="330" class="title">Contact</tspan><tspan class="cc"> ──────────────────────────────</tspan>
 
